@@ -4,7 +4,7 @@ by Shana Henry, Yenmin Young and Christine Marra
 -----
 
 ### General Overview
-(include here description of unit, what class(es) it fits into, when...)
+In this unit, students will be able to import the Bootstrap library into their HTML file and utilize the various components (such as the photo carousel or the dropdown accordion feature) to make a more professional and dynamic website. This will be taught in the semester-long 10th grade Web Development class after students have learned the basics of HTML and CSS. By the end of the unit, students will make a professional travel blog that utilize at least 3 Bootstrap components.
 
 ---
 
@@ -30,6 +30,7 @@ by Shana Henry, Yenmin Young and Christine Marra
 
 ### Resources
 (include any links/books/readings to be used during this unit)
+https://getbootstrap.com/
 
 ---
 
