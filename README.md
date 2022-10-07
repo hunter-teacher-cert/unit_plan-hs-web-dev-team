@@ -42,7 +42,7 @@ https://getbootstrap.com/
 Total length: 2 Weeks (45 min lesson meeting 5 days/week)
 
 | Lesson #        | Title           | Main topic  |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:| ------------:|
 | 1      |  What is missing?     | Elicit the need for advanced website design. Discuss the function of libraries and name features of websites that we have not learned yet.  Introduce Bootstrap.  Connect Bootstrap bundles to be ready to be used.  relate to Google Fonts library.  |
 | 2      |   Two popular features    |  NavBar & Grid  |
 | 3      |   Grid    |  Practice using Grids  |
