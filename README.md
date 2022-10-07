@@ -9,19 +9,22 @@ In this unit, students will be able to import the Bootstrap library into their H
 ---
 
 ### Motivation for Unit
-(why have you decided to make this?
 
-Shana Elizabeth
+We decided to make this Unit focusing on extending layout features because it is important for students to be exposed to libraries and the possibility of quickly using code to dramatically enhance a website. Learning to use containers, divs, advanced CSS, allows greater access to more powerful features of front end web development.  Javascript is the language used by the Bootstrap platform. Another motivating factor is to have units that extend the curriculum for differentiation purposes.  
+
 
 ---
 
 ### Standards Referenced
 9-12.IC.7 Investigate the use of computer science in multiple fields.
-9-12.CT.9 Systematically test and refine programs using a range of test cases, based on anticipating common errors and user behavior.
-9-12.NSD.4 Describe the components and design chaacteristics that allow data and information to be moved, stored and referenced over the Internet.
-9-12.NDS.5 Describe how emerging technologies are impacting networks and how they are used.
-9-12 CY.1 Determine the types of personal and organizational informationand digital resources that an individual may have access tothat needs to be protected.
 
+9-12.CT.9 Systematically test and refine programs using a range of test cases, based on anticipating common errors and user behavior.
+
+9-12.NSD.4 Describe the components and design chaacteristics that allow data and information to be moved, stored and referenced over the Internet.
+
+9-12.NDS.5 Describe how emerging technologies are impacting networks and how they are used.
+
+9-12 CY.1 Determine the types of personal and organizational informationand digital resources that an individual may have access tothat needs to be protected.
 
  ---
 
