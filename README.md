@@ -39,9 +39,20 @@ https://getbootstrap.com/
 ---
 
 ### Lessons
-Total lenght: X Weeks
+Total length: 2 Weeks (45 min lesson meeting 5 days/week)
 
-(list each lesson with main topic(s))
+| Lesson #        | Title           | Main topic  |
+| ------------- |:-------------:| -----:|
+| 1      |  What is missing?     | Elicit the need for advanced website design. Discuss the function of libraries and name features of websites that we have not learned yet.  Introduce Bootstrap.  Connect Bootstrap bundles to be ready to be used.  relate to Google Fonts library.  |
+| 2      |   Two popular features    |  NavBar & Grid  |
+| 3      |   Grid    |  Practice using Grids  |
+| 4      |  Cards & Dropdown   |  Layout feature of cards and dropdown   |
+| 5      |   Cards & Carousel    |  Layout feature of cards and carousel  |
+| 6      |   Assessment    |  Check in for understanding  |
+| 7      |   Parallax scrolling   |  Layout feature of parallax scrolling and changing the different speeds of the foreground content while scrolling  |
+| 8      |   Another feature is..   |  It's your choice. Search and find a feature not yet discussed  |
+| 9      |   Final Project    |  Add 3 Boostrap components to their professional travel blog.   |
+| 10     |   Share-Out    |  Students will share their professional travel blog with the school community and discuss the added features and their process as web developers.   |
 
 ---
 
