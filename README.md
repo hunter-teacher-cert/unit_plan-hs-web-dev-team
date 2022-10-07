@@ -16,6 +16,9 @@ We decided to make this Unit focusing on extending layout features because it is
 ---
 
 ### Standards Referenced
+
+| Standard #    | Standard           | 
+| ------------- |:-------------:| 
 | 9-12.IC.7 | Investigate the use of computer science in multiple fields. |
 
 | 9-12.CT.9 | Systematically test and refine programs using a range of test cases, based on anticipating common errors and user behavior. |
