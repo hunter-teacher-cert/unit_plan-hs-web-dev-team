@@ -21,9 +21,9 @@ We decided to make this Unit focusing on extending layout features because it is
 | -------------  |:-------------:| 
 | 9-12.IC.7      | Investigate the use of computer science in multiple fields. |
 | 9-12.CT.9      | Systematically test and refine programs using a range of test cases, based on anticipating common errors and user behavior. |
-| 9-12.NSD.4     | Describe the components and design chaacteristics that allow data and information to be moved, stored and referenced over the Internet.|
+| 9-12.NSD.4     | Describe the components and design characteristics that allow data and information to be moved, stored and referenced over the Internet.|
 | 9-12.NDS.5     | Describe how emerging technologies are impacting networks and how they are used. |
-| 9-12 CY.1      | Determine the types of personal and organizational informationand digital resources that an individual may have access tothat needs to be protected. |
+| 9-12 CY.1      | Determine the types of personal and organizational information and digital resources that an individual may have access to that needs to be protected. |
 
  ---
 
@@ -43,7 +43,7 @@ Total length: 2 Weeks (45 min lesson meeting 5 days/week)
 
 | Lesson #        | Title           | Main topic  |
 | ------------- |:-------------:| ------------:|
-| 1      |  What is missing?     | Elicit the need for advanced website design. Discuss the function of libraries and name features of websites that we have not learned yet.  Introduce Bootstrap.  Connect Bootstrap bundles to be ready to be used.  relate to Google Fonts library.  |
+| 1      |  What is missing?     | Elicit the need for advanced website design. Discuss the function of libraries and name features of websites that we have not learned yet.  Introduce Bootstrap.  Connect Bootstrap bundles to be ready to be used.  Relate to Google Fonts library.  |
 | 2      |   Two popular features    |  NavBar & Grid  |
 | 3      |   Grid    |  Practice using Grids  |
 | 4      |  Cards & Dropdown   |  Layout feature of cards and dropdown   |
