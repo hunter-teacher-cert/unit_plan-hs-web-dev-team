@@ -1,5 +1,5 @@
 # BOOTSTRAP
-by Shana Henry, Yenmin Young and Christine Marra
+by Shana Elizabeth Henry, Yenmin Young and Christine Marra
 
 -----
 
