@@ -69,7 +69,3 @@ Formative: Project to create a professional travel blog.
       - Notes
       - Resources
       - Assignments
-  - Each lesson folder should only contain:
-    - PDF files
-    - Source code files
-    - Images
