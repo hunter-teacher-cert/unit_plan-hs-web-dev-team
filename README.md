@@ -37,8 +37,10 @@ Categorizing tools into overarching themes gives the following: Programming , Co
 ---
 
 ### Resources
-(include any links/books/readings to be used during this unit)
-https://getbootstrap.com/
+
+1. https://getbootstrap.com/
+2. Django 2.1 Tutorial : Build a Travel Blog with GoormIDE and Bootstrap 4 link: https://www.amazon.com/Django-2-1-Tutorial-GoormIDE-Bootstrap-ebook/dp/B07G44FZV7/ref=sr_1_1?crid=K6LJNMSQIR0X&keywords=Build+a+Travel+Blog&qid=1667759118&s=digital-text&sprefix=build+a+travel+blog%2Cdigital-text%2C72&sr=1-1
+3. How to Start a Blog Today: A Free Step-by-Step Beginner’s Guide to Create a Blog in 20 minutes link: https://www.amazon.com/Start-Blog-Today-Step-Step-ebook/dp/B074YYCNGB/ref=sr_1_2_sspa?crid=K6LJNMSQIR0X&keywords=Build+a+Travel+Blog&qid=1667759227&s=digital-text&sprefix=build+a+travel+blog%2Cdigital-text%2C72&sr=1-2-spons&psc=1
 
 ---
 
@@ -61,6 +63,6 @@ Total length: 2 Weeks (45 min lesson meeting 5 days/week)
 ---
 
 ### Assesments
-Formative: Project to create a professional travel blog. 
+Formative: Project to create a professional travel blog. Students are expected to create a professional travel blog from scratch and incorporate at least three Bootstrap components that they have learned this Unit. 
 
 ---
