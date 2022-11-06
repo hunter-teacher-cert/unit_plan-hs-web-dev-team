@@ -64,11 +64,3 @@ Total length: 2 Weeks (45 min lesson meeting 5 days/week)
 Formative: Project to create a professional travel blog. 
 
 ---
-
-    - We will not specify a specific format for lesson plans, but each one should include all lesson components including (but not limited to):
-      - Main objective
-      - Standards
-      - In class exercises
-      - Notes
-      - Resources
-      - Assignments
