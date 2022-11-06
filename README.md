@@ -28,7 +28,8 @@ We decided to make this Unit focusing on extending layout features because it is
  ---
 
 ### Tools Used
-(include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
+
+Categorizing tools into overarching themes gives the following: Programming , Communication, Collaboration, Code/Work Collection,  Presentation, Learning Management, and OS.  We choose to use either Windows or Mac OS as the Operating System.  We each teach at different schools and this Unit is intended to be used in any public school classroom with either Windows or Mac OS.  We are also choosing Replit as both our IDE and Code/Work Collection tool.  Replit has many programming languages to choose from, and for this Unit we will be using HTML, CSS, Javascript.  Replit also has a lot more features that are useful in our Unit like multiplayer, and teams/classroom, and auto-saving. Finally, we will use Google Classroom as our Communication Tool.  This choice of tool easily syncs with their DOE schools account and provides a platform to send assignments, give comments, and send messages. There is no need for additional accounts for the students. Google Classroom will be used in our Unit to post the assignments and assessments.  Feedback will also be given using a combination of Google Classroom and Replit. A lot of these features are also free which we need in our schools. The tools used in this unit are appropriate for the content of advanced layout web design and using libraries.  The tools mentioned previously are also intended for 8th -12th grade. 
 
 ---
 
@@ -42,32 +43,25 @@ https://getbootstrap.com/
 Total length: 2 Weeks (45 min lesson meeting 5 days/week)
 
 | Lesson #        | Title           | Main topic  |
-| ------------- |:-------------:| ------------:|
-| 1      |  What is missing?     | Elicit the need for advanced website design. Discuss the function of libraries and name features of websites that we have not learned yet.  Introduce Bootstrap.  Connect Bootstrap bundles to be ready to be used.  Relate to Google Fonts library.  |
-| 2      |   Two popular features    |  NavBar & Grid  |
-| 3      |   Grid    |  Practice using Grids  |
-| 4      |  Cards & Dropdown   |  Layout feature of cards and dropdown   |
-| 5      |   Cards & Carousel    |  Layout feature of cards and carousel  |
-| 6      |   Assessment    |  Check in for understanding  |
+| :-------------: |:-------------:| :------------:|
+| 1      |  What is missing?     | Elicit the need for advanced website design. Discuss the function of libraries and name features of websites that we have not learned yet. Introduce Bootstrap. Connect Bootstrap bundles to be ready to be used. Relate to Google Fonts library. Introduce Travel Blog project.  |
+| 2      |   Carousel    |  Layout feature of carousel. They bring 5 of their favorite photos that make them smile.  |
+| 3      |   Grid    |  Practice using Grids (Simple assignment)  |
+| 4      |  Cards    |  Layout feature of cards  |
+| 5      |   Brainstorming for project  |  Begin to think about content for your Travel Blog. How would you apply grids and cards to it? Start with a skeleton / pseudocode  |
+| 6      |   NavBar & Dropdown    |  NavBar and dropdown  |
 | 7      |   Parallax scrolling   |  Layout feature of parallax scrolling and changing the different speeds of the foreground content while scrolling  |
-| 8      |   Another feature is..   |  It's your choice. Search and find a feature not yet discussed  |
-| 9      |   Final Project    |  Add 3 Boostrap components to their professional travel blog.   |
+| 8      |   Workshop Time   |  It's your choice. Search and find a feature not yet discussed  |
+| 9      |   Workshop Time    |  Add 3 Boostrap components to their professional travel blog.   |
 | 10     |   Share-Out    |  Students will share their professional travel blog with the school community and discuss the added features and their process as web developers.   |
 
 ---
 
 ### Assesments
-(list summative and/or formative assessments used)
+Formative: Project to create a professional travel blog. 
 
 ---
 
-
-Every Unit Plan repository should have the following.
-* README.md: Unit plan template
-* lessons/
-  - Folder containing separate folders for each lesson.
-  - Each sub-folder should be named __##\_TOPIC__ i.e. __00\_intro__
-  - A lesson plan should be a pdf file.
     - We will not specify a specific format for lesson plans, but each one should include all lesson components including (but not limited to):
       - Main objective
       - Standards
