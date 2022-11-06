@@ -17,6 +17,9 @@ We decided to make this Unit focusing on extending layout features because it is
 
 ### Standards Referenced
 
+The standards for the 10 lessons in this unit are all from the NYS Computer Science Standards.  The first lesson covers Standard 9-12.CT.4.  All of the content lessons (Lesson 2, 3, 4, 5, 7, and 8 cover 9-12.CT.10. The remaining lessons 6, 9 and 10 are assessments which cover all the standards for this Unit. Each lesson has the specific standard referenced in the lesson plan. 
+
+
 | Standard #     | Standard           | 
 | -------------  |:-------------:| 
 | 9-12.IC.7      | Investigate the use of computer science in multiple fields. |
