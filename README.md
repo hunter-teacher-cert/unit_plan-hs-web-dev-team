@@ -1,5 +1,7 @@
-# BOOTSTRAP
+# BOOTSTRAP CSS
 by Shana Elizabeth Henry, Yenmin Young and Christine Marra
+Hunter College: Fall 2022
+SEDC 73600: Curriculum Design For Computer Science
 
 -----
 
