@@ -73,6 +73,3 @@ Formative: Project to create a professional travel blog.
     - PDF files
     - Source code files
     - Images
-* assessments/
-  - Any assessments & their associated rubrics
-  - Even if the assessment is also in a lesson folder, it should also be placed in this folder.
