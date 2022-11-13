@@ -27,7 +27,7 @@ The standards for the 10 lessons in this unit are all from the NYS Computer Scie
 | Standard #     | Standard           | 
 | -------------  |:-------------:| 
 | 9-12.IC.7      | Investigate the use of computer science in multiple fields. |
-| 9-12.CT.9      | Systematically test and refine programs using a range of test cases, based on anticipating common errors and user behavior. |
+| 9-12.CT.10      | Standard: Collaboratively design and develop a program or computational artifact for a specific audience and create documentation outlining implementation features to inform collaborators and users. |
 | 9-12.NSD.4     | Describe the components and design characteristics that allow data and information to be moved, stored and referenced over the Internet.|
 | 9-12.NDS.5     | Describe how emerging technologies are impacting networks and how they are used. |
 | 9-12 CY.1      | Determine the types of personal and organizational information and digital resources that an individual may have access to that needs to be protected. |
