@@ -26,7 +26,7 @@ The standards for the 10 lessons in this unit are all from the NYS Computer Scie
 
 | Standard #     | Standard           | 
 | -------------  |:-------------:| 
-| 9-12.IC.7      | Investigate the use of computer science in multiple fields. |
+| 9-12.CT.4      | Standard: Implement a program using a combination of student-defined and third-party functions to organize the computation. |
 | 9-12.CT.10      | Standard: Collaboratively design and develop a program or computational artifact for a specific audience and create documentation outlining implementation features to inform collaborators and users. |
 
 
