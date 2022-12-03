@@ -1,0 +1,62 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+#carouselExampleControls{
+  border: 20px black solid;
+  width: 40%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+a.active{
+  color: $purple;
+  font-style: italic;
+  border: 2px black dashed;
+}
+
+.europeGrid{
+  border: 1px black solid;
+  border-radius: 40px;
+}
+
+.europePics{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  margin: 2%;
+  border-radius: 40px;
+  border: black 1px solid;
+}
+
+#greece{
+  background-color: #DDE5B6;
+}
+
+#croatia{
+  background-color: #ADC178;
+}
+
+#italy{
+  background-color: #A98467;
+}
+
+.africaPics{
+  width: 100%;
+/*   height: same-as-width; */
+  aspect-ratio: 1/1;
+  object-fit: cover;
+  margin: 2%;
+  border-radius: 40px;
+  border: #6C584C 3px solid;
+}
+
+#centerblocks{
+/*   display:block;
+  margin-left: auto;
+  margin-right: auto; */
+  text-align: center;
+}
