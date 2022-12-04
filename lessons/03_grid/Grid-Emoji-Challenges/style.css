@@ -1,0 +1,24 @@
+span{
+  font-size: 60px;
+  padding: 10px;
+  border: none;
+}
+
+img{
+  width: 95%;
+}
+.row {
+  background-color: #56B4E9
+}
+
+.cell{
+  border: solid 0.5px black;
+} 
+
+body{
+  padding-top: 15px;
+}
+
+ul{
+  font-size: 20px;
+}
